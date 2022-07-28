@@ -4,11 +4,11 @@ To begin, there is **BNPL services are becoming increasingly popular around the 
 ## What it does
 We provide an **innovative approach to financing** here. Our solution is called **Crediall**, which drives the **decentralised consumer credit**. The concept is to introduce cryptocurrency into the **BNPL realm**. Cryptocurrency-accepting systems should be supported using the **BNPL approach**, just as the **TradFi** world is.
 
-![Key Drivers](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/871/581/datas/gallery.jpg)
+<img width="960" alt="Drivers" src="https://user-images.githubusercontent.com/107539208/181493905-a4978bf6-82ad-4e40-9f1d-f07d5e911028.png">  
 
 Our solution utilizes the **features of NFTs to enrich our solution further digitizing and securing the rewards and offers for the customers**. Lets take a look at the overall process.
 
-![Crediall BNPL & Reward Process](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/871/567/datas/original.gif)
+![Crediall BNPL & Reward Process]<img width="960" alt="DCC" src="https://user-images.githubusercontent.com/107539208/181493960-71f15ff7-46ab-43e7-9e00-1615c9387967.png">
 
 Customers use the Crediall platforms for their transactions **online or offline by scanning QR code of the merchants or retailers**.
 One the Crediall transaction completes and the **NFT Tokens as rewards are credited to customers wallet for future use**. Customer can either **use those NFT tokens or trade them online** to amplify the gains from his transaction. This service allows for **greater transparency and security of buying, selling, and lending of physical goods as well as digital goods and assets**.
